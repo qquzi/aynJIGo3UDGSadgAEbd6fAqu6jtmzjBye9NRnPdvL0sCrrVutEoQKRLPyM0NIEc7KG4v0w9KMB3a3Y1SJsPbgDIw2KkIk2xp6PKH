@@ -1,5 +1,4 @@
--- ts file was generated at discord.gg/25ms
-
+-- lazy i aint doing ts
 local _LocalPlayer = game:GetService('Players').LocalPlayer
 local _UserService = game:GetService('UserService')
 local u3
