@@ -1,5 +1,5 @@
 local _Players = game:GetService('Players')
-local u3 = loadstring(game:HttpGet("https://raw.githubusercontent.com/qquzi/orionx/refs/heads/main/orionx.lua"))()
+local u3 = loadstring(game:HttpGet('https://raw.githubusercontent.com/qquzi/orionx/refs/heads/main/orionx.lua'))()
 local _Debris = game:GetService('Debris')
 local _Workspace = game:GetService('Workspace')
 local _Lighting = game:GetService('Lighting')
