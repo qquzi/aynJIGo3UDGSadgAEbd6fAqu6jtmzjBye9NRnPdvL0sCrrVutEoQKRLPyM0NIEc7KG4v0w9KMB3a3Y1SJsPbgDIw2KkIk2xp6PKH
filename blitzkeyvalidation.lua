@@ -8,7 +8,7 @@ if OrionLibrary then
 
     u3 = OrionLibrary
 else
-    getgenv().OrionLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/BlizTBr/scripts/main/Orion%20X'))()
+    getgenv().OrionLibrary = loadstring(game:HttpGet('https://raw.githubusercontent.com/qquzi/aynJIGo3UDGSadgAEbd6fAqu6jtmzjBye9NRnPdvL0sCrrVutEoQKRLPyM0NIEc7KG4v0w9KMB3a3Y1SJsPbgDIw2KkIk2xp6PKH/refs/heads/main/orionx.lua'))()
     u3 = OrionLibrary
 end
 
